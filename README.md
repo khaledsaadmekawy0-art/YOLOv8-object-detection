@@ -1,3 +1,4 @@
+<img width="1012" height="665" alt="after detection" src="https://github.com/user-attachments/assets/436096bc-9f20-4de2-8225-d2fd844ca92e" />
 # YOLOv8 Object Detection
 
 ## Overview
